@@ -1,4 +1,7 @@
 # Convert roman to integer
+// This function is used to convert a roman number in the form to string into integer.
+// Programmer : Sree Hari Priya (sreeharipriya)
+// IDE : Atom
 
 int romanToInt(string s) {
     int n=s.length();
